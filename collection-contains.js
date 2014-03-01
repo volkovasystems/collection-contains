@@ -1,6 +1,3 @@
-/*:
-*/
-collectionContains = function collectionContains( collection, element ){
-	/*:
-	*/
+
+var collectionContains = function collectionContains( collection, element ){
 };
